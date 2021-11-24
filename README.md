@@ -24,9 +24,3 @@ https://www.reddit.com/r/SimpleMobileTools
 
 <a href='https://play.google.com/store/apps/details?id=com.neosafe.neophone'><img src='https://simplemobiletools.com/assets/images/google-play.png' alt='Get it on Google Play' height='45' /></a>
 <a href='https://f-droid.org/packages/com.neosafe.neophone'><img src='https://simplemobiletools.com/assets/images/f-droid.png' alt='Get it on F-Droid' height='45' /></a>
-
-<div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/1.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/2.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/3.jpg" width="30%">
-</div>
