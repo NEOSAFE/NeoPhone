@@ -7,6 +7,6 @@ Un clavier de numérotation rapide est également à votre disposition, avec des
 
 Vous pouvez facilement bloquer les numéros de téléphone pour éviter les appels entrants indésirables.
 
-Cette application peut s'utiliser en complément avec l'application PTI eSafeMe PRO afin de permettre une totale compatibilité.
+Cette application peut s'utiliser en complément avec l'application PTI <b>eSafeMe PRO</b> afin de permettre une totale compatibilité.
 
 Il est entièrement opensource, librement inspiré de l'application Simple Dialer: https://www.simplemobiletools.com
